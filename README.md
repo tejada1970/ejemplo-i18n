@@ -4,7 +4,7 @@
 
 > 📚 Incluye guías paso a paso.
 
-> 🗓 Última actualización: 08-07-2025.
+> 🗓 Última actualización: 25-10-2025.
 
 ---
 
@@ -44,7 +44,7 @@ El principal objetivo de este proyecto es compartir mis conocimientos en desarro
 
 En esta guía, encontrarás toda la información necesaria sobre cómo crear un nuevo proyecto Next.js:
 
-- 📄 [Crear proyecto Next.js](https://github.com/tejada1970/guias-desarrollo/blob/master/crear/crear-proyecto-nextjs.md)
+- 📄 [Crear proyecto Next.js](https://github.com/tejada1970/guias-desarrollo/blob/master/entorno-windows/crear/crear-proyecto-nextjs.md)
 
 ---
 
@@ -52,7 +52,7 @@ En esta guía, encontrarás toda la información necesaria sobre cómo crear un 
 
 En esta guía, encontrarás toda la información necesaria sobre cómo implementar el soporte multilenguaje en este proyecto:
 
-- 📄 [Configurar i18n con next-intl (soporte multilenguaje)](https://github.com/tejada1970/guias-desarrollo/blob/master/configuraciones/windows/configurar-i18n-con-next-intl.md)
+- 📄 [Configurar i18n con next-intl (soporte multilenguaje)](https://github.com/tejada1970/guias-desarrollo/blob/master/entorno-windows/configurar/configurar-i18n-con-next-intl.md)
 
 ---
 
@@ -62,7 +62,7 @@ Crear un repositorio en **GitHub** y subir tu proyecto local permite mantener tu
 
 En esta guía, encontrarás toda la información necesaria sobre cómo crear un repositorio en **GitHub** y subir tu proyecto local:
 
-- 📄 [Crear repositorio en GitHub y subir proyecto local](https://github.com/tejada1970/guias-desarrollo/blob/master/crear/crear-repositorio-github-subir-proyecto.md)
+- 📄 [Crear repositorio en GitHub y subir proyecto local](https://github.com/tejada1970/guias-desarrollo/blob/master/entorno-windows/crear/crear-repositorio-github-subir-proyecto.md)
 
 ---
 
@@ -70,7 +70,7 @@ En esta guía, encontrarás toda la información necesaria sobre cómo crear un 
 
 En esta guía, encontrarás toda la información necesaria sobre cómo clonar y ejecutar este proyecto en un entorno local con **XAMPP**:
 
-- 📄 [Clonar proyecto Next.js en XAMPP](https://github.com/tejada1970/guias-desarrollo/blob/master/clonar/clonar-proyecto-nextjs-en-xampp.md)
+- 📄 [Clonar proyecto Next.js en XAMPP](https://github.com/tejada1970/guias-desarrollo/blob/master/entorno-windows/clonar/clonar-proyecto-nextjs-en-xampp.md)
 
 > 💡 **Recuerda copiar la URL de este repositorio desde `<> Code / HTTPS` para reemplazar la URL de ejemplo que se proporciona en la guía para clonar el proyecto.**
 
